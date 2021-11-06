@@ -16,7 +16,7 @@ os.system("md Te_infectaste_bobo")
 os.system("md weje pc ")
 os.system("md se destruira tu pc ")
 os.system("cls")
-input("crees que este virus destruya tu pese ")
+input("crees que este virus destruya tu pc ")
 eliminador_de_virus = True
 if eliminador_de_virus == True:
     input("pues no ")
